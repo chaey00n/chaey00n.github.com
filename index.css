@@ -32,13 +32,37 @@
 <div class="container-fluid bg-1 text-center">
   <center><h3>Who Am I?</h3></center>
   <center><img src="img/ch.jpg" class="img-circle" alt="ch" width="350" height="350"></center>
-  <h3>I'm Kwon Chae Yoon</h3></center>
+  <center><h3>I'm Kwon Chae Yoon</h3></center>
 </div>
 
 <div class="container-fluid bg-2 text-center">
 <center><h3>Favorite Music?</h3></center>
-  <center><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-</div></center>
+  <div class="container-fluid text-center bg-grey">
+  <center><h2>Favorite Music</h2></center>
+  <center><h4>PLAY LIST</h4></center>
+  <div class="row text-center">
+    <div class="col-sm-4">
+      <div class="thumbnail">
+        <img src="img/d.jpg" alt="d">
+        <center><p><strong>DEAN</strong></p></center>
+        <p>21</p>
+      </div>
+    </div>
+    <div class="col-sm-4">
+      <div class="thumbnail">
+        <img src="img/hi.jpg" alt="hi">
+        <center><p><strong>SEOULITE</strong></p></center>
+        <center><p>MY STAR</p></center>
+      </div>
+    </div>
+    <div class="col-sm-4">
+      <div class="thumbnail">
+        <img src="img/t.jpg" alt="t">
+       <center> <p><strong>TWICE</strong></p></center>
+        <center><p>CHEER UP</p></center>
+      </div>
+    </div>
+</div>
 
 <div class="container-fluid bg-3 text-center">
   <center><h3>Favorite Movies?</h3></center>
