@@ -30,20 +30,20 @@
 <body>
 
 <div class="container-fluid bg-1 text-center">
-  <h3>Who Am I?</h3>
-  <img src="bird.jpg" class="img-circle" alt="Bird" width="350" height="350">
-  <h3>I'm an adventurer</h3>
+  <center><h3>Who Am I?</h3></center>
+  <center><img src="img/ch.jpg" class="img-circle" alt="ch" width="350" height="350"></center>
+  <h3>I'm Kwon Chae Yoon</h3></center>
 </div>
 
 <div class="container-fluid bg-2 text-center">
-  <h3>What Am I?</h3>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-</div>
+<center><h3>Favorite Music?</h3></center>
+  <center><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+</div></center>
 
 <div class="container-fluid bg-3 text-center">
-  <h3>Where To Find Me?</h3>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
+  <center><h3>Favorite Movies?</h3></center>
+  <center><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div></center>
 
 </body>
 </html>
