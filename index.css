@@ -31,39 +31,43 @@
 
 <div class="container-fluid bg-1 text-center">
   <center><h3>Who Am I?</h3></center>
-  <center><img src="img/ch.jpg" class="img-circle" alt="ch" width="350" height="350"></center>
+  <center><img src="img/ch.jpg" class="img/ch.circle" alt="ch" width="350" height="350"></center>
   <center><h3>I'm Kwon Chae Yoon</h3></center>
 </div>
 
 <div class="container-fluid bg-2 text-center">
 <center><h3>Favorite Music?</h3></center>
-  <div class="container-fluid text-center bg-grey">
-  <center><h2>Favorite Music</h2></center>
-  <center><h4>PLAY LIST</h4></center>
+<div class="container-fluid text-center bg-grey">
+  <center><h2>PLAY LIST</h2><br></center>
+  <center><h4>LIST</h4></center>
   <div class="row text-center">
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img src="img/d.jpg" alt="d">
-       <p><strong>DEAN</strong></p>
+        <img src="img/d.JPG" alt="d" width="400" height="300">
+        <p><strong>DEAN</strong></p>
         <p>21</p>
       </div>
     </div>
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img src="img/hi.jpg" alt="hi">
-        <p><strong>SEOULITE</strong></p>
-       <p>MY STAR</p>
+        <img src="t.JPG" alt="t" width="400" height="300">
+        <p><strong>TWICE</strong></p>
+        <p>CHEER UP</p>
       </div>
     </div>
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img src="img/t.jpg" alt="t">
-      <p><strong>TWICE</strong></p>
-       ><p>CHEER UP</p>
+        <img src="hi.JPG" alt="hi" width="400" height="300">
+        <p><strong>SEOULITE</strong></p>
+        <p>MY STAR/p>
       </div>
     </div>
+  </div>
 </div>
 
+</body>
+</html>
+  
 <div class="container-fluid bg-3 text-center">
   <center><h3>Favorite Movies?</h3></center>
   <center><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
