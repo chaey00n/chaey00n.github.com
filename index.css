@@ -1,26 +1,31 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>KCH-CHAEYOON</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-  .bg-1 { 
-      background-color: #1abc9c; /* Green */
-      color: #ffffff;
-  }
-  </style>
-</head>
+<style>
+.bg-1 { 
+    background-color: #1abc9c; /* Green */
+    color: #ffffff;
+}
+.bg-2 { 
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+}
+.bg-3 { 
+    background-color: #ffffff; /* White */
+    color: #555555;
+}
+</style>
+
 <body>
 
-</head>
-<body>
-  
-  <div class="bg-1">
-  <div class="container text-center">
-<h3>Who Am I?</h3>
-<img src="img/ch.jpg" alt="ch">
-<h3>I'm Kwon chae yoon</h3>
-
+<div class="container-fluid bg-1 text-center">
+  <h3>Who Am I?</h3>
+  <img src="img.ch.jpg" class="img-circle" alt="ch>
+  <h3>KWON-CHAE-YOON</h3>
+</div>
+<div class="container-fluid bg-2 text-center">
+  <h3>Favorite Music?</h3>
+  <p>KWON-CHAE-YOON</p>
+</div>
+<div class="container-fluid bg-3 text-center">
+  <h3>Favorite Movies?</h3>
+  <p>Lorem ipsum..</p>
+</div>
 </body>
-</html>
